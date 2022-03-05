@@ -42,3 +42,4 @@ What’s the primary difference between ES6 Classes and Constructor/Prototype Cl
 ES5 function constructors create objects along with inheritance property. 
 ES6 class constructors creates objects by adding function to their prototypes (Blueprint).
 
+[Home](./README.md)<br>

@@ -41,3 +41,4 @@ Doubly - Doubly refers to there being two (double) references within the node. A
 ---linear data structures, which means that there is a sequence and an order to how they are constructed and traversed.
 ---In non-linear data structures, items don’t have to be arranged in order, which means that we could traverse the data structure non-sequentially.
 
+[Home](./README.md)<br>
