@@ -1,4 +1,5 @@
 # advanced-js-reading-notes
+[read class 13](./13-prep-and-tdd.md)<br>
 [read class 12](./12-prep-and-tdd.md)<br>
 [read class 11](./11-prep-and-tdd.md)<br>
 [read class 10](./10-prep-and-tdd.md)<br>
@@ -10,3 +11,4 @@
 [read class 04](./03-prep-and-tdd.md)<br>
 [read class 03](./02-prep-and-tdd.md)<br>
 [read class 02](./01-prep-and-tdd.md)<br>
+https://idreesalmasri.github.io/advanced-js-reading-notes/12-prep-and-tdd.html
