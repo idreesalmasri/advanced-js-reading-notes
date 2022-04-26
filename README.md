@@ -1,4 +1,5 @@
 # advanced-js-reading-notes
+[read class 27](./read-27.md)<br>
 [read class 26](./read-26.md)<br>
 [read class 18](./18-prep-and-tdd.md)<br>
 [read class 17](./17-prep-and-tdd.md)<br>
