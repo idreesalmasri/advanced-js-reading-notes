@@ -1,4 +1,5 @@
 # advanced-js-reading-notes
+[read class 42](./read-42.md)<br>
 [read class 41](./read-41.md)<br>
 [read class 39](./read-39.md)<br>
 [read class 38](./read-38.md)<br>
